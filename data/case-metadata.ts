@@ -1,0 +1,123 @@
+// Case metadata for all 20 cases with titles, descriptions, and images
+export const CASE_METADATA = [
+  {
+    caseNumber: 1,
+    title: "Maria Johnson",
+    description: "Headache with throbbing pain",
+    image: "/images/cases/case-01.png",
+  },
+  {
+    caseNumber: 2,
+    title: "Rajesh Mishra",
+    description: "Bruise on right knee after fall",
+    image: "/images/case-2-knee-bruise.jpg",
+  },
+  {
+    caseNumber: 3,
+    title: "Neha Shah",
+    description: "Red, itchy patches on neck",
+    image: "/images/cases/case-03.jpg",
+  },
+  {
+    caseNumber: 4,
+    title: "Ramesh Patel",
+    description: "Sudden nosebleed",
+    image: "/images/cases/case-04.jpg",
+  },
+  {
+    caseNumber: 5,
+    title: "Case 5",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-05.jpg",
+  },
+  {
+    caseNumber: 6,
+    title: "Case 6",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-06.jpg",
+  },
+  {
+    caseNumber: 7,
+    title: "Rina Patel",
+    description: "Sunstroke headache with congestion",
+    image: "/images/cases/case-07.jpg",
+  },
+  {
+    caseNumber: 8,
+    title: "Neha Patel",
+    description: "Multiple moles with itching and burning",
+    image: "/images/cases/case-08.jpg",
+  },
+  {
+    caseNumber: 9,
+    title: "Rita Sharma",
+    description: "Severe burning pain during urination",
+    image: "/images/cases/case-09.jpg",
+  },
+  {
+    caseNumber: 10,
+    title: "Case 10",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-10.jpg",
+  },
+  {
+    caseNumber: 11,
+    title: "Ramesh Solanki",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-11.jpg",
+  },
+  {
+    caseNumber: 12,
+    title: "Case 12",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-12.jpg",
+  },
+  {
+    caseNumber: 13,
+    title: "Case 13",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-13.jpg",
+  },
+  {
+    caseNumber: 14,
+    title: "Case 14",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-14.jpg",
+  },
+  {
+    caseNumber: 15,
+    title: "Case 15",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-15.jpg",
+  },
+  {
+    caseNumber: 16,
+    title: "Priya Sharma",
+    description: "Abdominal pain with discomfort",
+    image: "/images/cases/case-16-abdominal-pain.jpg",
+  },
+  {
+    caseNumber: 17,
+    title: "Keyli",
+    description: "Hair loss concern",
+    image: "/images/cases/case-17-hair-loss.jpg",
+  },
+  {
+    caseNumber: 18,
+    title: "Arjun",
+    description: "Chronic headache with stress",
+    image: "/images/cases/case-18.jpg",
+  },
+  {
+    caseNumber: 19,
+    title: "Case 19",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-19.jpg",
+  },
+  {
+    caseNumber: 20,
+    title: "Case 20",
+    description: "Homeopathic case study",
+    image: "/images/cases/case-20.jpg",
+  },
+]
