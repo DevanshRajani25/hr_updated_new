@@ -3,6 +3,5 @@
   "outputDirectory": ".next",
   "env": {
     "NEXT_PUBLIC_APP_NAME": "Homeo Reaches"
-  },
-  "installCommand": "pnpm install --frozen-lockfile"
+  }
 }
